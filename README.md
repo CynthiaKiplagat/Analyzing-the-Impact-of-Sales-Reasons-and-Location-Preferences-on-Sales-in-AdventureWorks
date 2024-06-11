@@ -17,7 +17,7 @@ The methodology involves;
 Retrieved relevant data from SQL for our objective.
 Below is the SQL Statement:
 
-![Alt Text]()
+![Alt Text](https://github.com/CynthiaKiplagat/Analyzing-the-Impact-of-Discounts-Sales-Reasons-and-Location-Preferences-on-Sales-in-AdventureWorks/blob/main/SQL.PNG)
 
 
 
