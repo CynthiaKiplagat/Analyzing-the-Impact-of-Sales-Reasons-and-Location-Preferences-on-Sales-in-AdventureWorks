@@ -15,6 +15,7 @@ The methodology involves;
 4. Reporting: Compiling results into comprehensive reports with visualizations to highlight key findings.
 ### Data Extraction
 Retrieved relevant data from SQL for our objective.
+![Alt Text](https://github.com/CynthiaKiplagat/Analyzing-the-Impact-of-Discounts-Sales-Reasons-and-Location-Preferences-on-Sales-in-AdventureWorks/blob/main/SQL.PNG)
 
 
 
