@@ -55,6 +55,8 @@ Australia leads with $18M in sales, followed by SouthWest with $15M, Northwest w
 
 ![Alt Text](https://github.com/CynthiaKiplagat/Analyzing-the-Impact-of-Sales-Reasons-and-Location-Preferences-on-Sales-in-AdventureWorks/blob/main/Sales%20Trend%20Over%20Time.PNG)
 
+Sales showed no significant change during the first period but faced a downturn in the next phase, indicating a possible market or operational issue. However, starting June 2013, sales experienced a positive trend, suggesting a recovery or improvement in factors influencing sales, which likely correlated with the subsequent rise in performance.
+
 
 
 
