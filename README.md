@@ -10,14 +10,20 @@ We will utilise the AdventureWorks Database.
 ## Methodology 
 The methodology involves;
 1. Data Extraction: Using SQL queries to extract relevant data from the database.
-2. Data Aggregation: Summarizing data to compute total sales, quantities, and other metrics.
-3. Data Analysis: Using Python libraries (such as pandas, matplotlib, and seaborn) to perform detailed analysis and create visualizations.
-4. Reporting: Compiling results into comprehensive reports with visualizations to highlight key findings.
+2. Data cleaning and processing:Prepare the extracted data for analysis
+3. Data Aggregation: Summarizing data to compute total sales, quantities, and other metrics.
+4. Data Analysis: Using Python libraries (such as pandas, matplotlib, and seaborn) to perform detailed analysis and create visualizations.
+5. Reporting: Compiling results into comprehensive reports with visualizations to highlight key findings.
 ### Data Extraction
 Retrieved relevant data from SQL for our objective.
 Below is the SQL Statement:
 
 ![Alt Text](https://github.com/CynthiaKiplagat/Analyzing-the-Impact-of-Discounts-Sales-Reasons-and-Location-Preferences-on-Sales-in-AdventureWorks/blob/main/SQL.PNG)
+The key output sales order information,customerdetails,salesreason and territory details.
+##Data cleaning and Processing
+Export the data to csv and import it in python.
+
+
 
 
 
