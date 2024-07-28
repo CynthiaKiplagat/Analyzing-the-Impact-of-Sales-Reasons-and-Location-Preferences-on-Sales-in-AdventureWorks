@@ -43,6 +43,7 @@ using the Label Encoder to cover both SalesReason1D and TerritoryName to numeric
 
 ### Exploratory Data Analysis
 #### Sales by Sales Reason 
+![Alt Text](https://github.com/CynthiaKiplagat/Analyzing-the-Impact-of-Sales-Reasons-and-Location-Preferences-on-Sales-in-AdventureWorks/blob/main/Sales%20by%20Sales%20Reason.PNG)
 
 
 
