@@ -39,6 +39,9 @@ The dataset doesnot contain null values.
 #### Encoding Variables 
 using the Label Encoder to cover both SalesReason1D and TerritoryName to numeric since most machine learning algorithms require numeric input.
 
+![Alt Text](https://github.com/CynthiaKiplagat/Analyzing-the-Impact-of-Sales-Reasons-and-Location-Preferences-on-Sales-in-AdventureWorks/blob/main/Encode%20Variables.PNG)
+
+
 
 
 
