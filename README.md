@@ -23,6 +23,8 @@ The key output sales order information,customerdetails,salesreason and territory
 ## Data cleaning and Processing
 Load the extract data into a pandas dataframe in python.
 
+![Alt Text](https://github.com/CynthiaKiplagat/Analyzing-the-Impact-of-Sales-Reasons-and-Location-Preferences-on-Sales-in-AdventureWorks/blob/main/Connection.PNG)
+
 
 
 
