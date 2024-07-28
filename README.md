@@ -45,6 +45,10 @@ using the Label Encoder to cover both SalesReason1D and TerritoryName to numeric
 #### Sales by Sales Reason 
 ![Alt Text](https://github.com/CynthiaKiplagat/Analyzing-the-Impact-of-Sales-Reasons-and-Location-Preferences-on-Sales-in-AdventureWorks/blob/main/Sales%20by%20Sales%20Reason.PNG)
 
+The leading sales reason is Pricing, generating over $40 million, followed by Promotion with $13 million, Manufacturer with $6.7 million, and Quality with $6.1 million. Reviews, Other, and Television Advertisement contribute significantly less, at $2 million, $900,000, and $31,000 respectively. Prioritizing pricing strategies, promotional activities, and strong manufacturer partnerships will optimize sales performance.
+
+#### Sales per Territory 
+
 
 
 
