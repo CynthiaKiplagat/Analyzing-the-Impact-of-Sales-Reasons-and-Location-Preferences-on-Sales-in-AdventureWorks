@@ -20,8 +20,8 @@ Below is the SQL Statement:
 
 ![Alt Text](https://github.com/CynthiaKiplagat/Analyzing-the-Impact-of-Discounts-Sales-Reasons-and-Location-Preferences-on-Sales-in-AdventureWorks/blob/main/SQL.PNG)
 The key output sales order information,customerdetails,salesreason and territory details.
-##Data cleaning and Processing
-Export the data to csv and import it in python.
+## Data cleaning and Processing
+Load the extract data into a pandas dataframe in python.
 
 
 
