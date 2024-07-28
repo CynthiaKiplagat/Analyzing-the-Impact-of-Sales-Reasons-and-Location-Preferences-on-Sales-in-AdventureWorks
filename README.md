@@ -53,6 +53,8 @@ The leading sales reason is Pricing, generating over $40 million, followed by Pr
 Australia leads with $18M in sales, followed by SouthWest with $15M, Northwest with $9M, and the UK with $8M. Germany, France, and Canada contribute $7M, $6M, and $5M, respectively. South East, North East, and Central have the least sales at $54K, $17K, and $8K, respectively.
 ### Sales Trend by Territory Over Time.
 
+![Alt Text](https://github.com/CynthiaKiplagat/Analyzing-the-Impact-of-Sales-Reasons-and-Location-Preferences-on-Sales-in-AdventureWorks/blob/main/Sales%20Trend%20Over%20Time.PNG)
+
 
 
 
