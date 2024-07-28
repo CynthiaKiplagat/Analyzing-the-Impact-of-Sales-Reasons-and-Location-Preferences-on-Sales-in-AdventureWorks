@@ -29,6 +29,11 @@ Load the extract data into a pandas dataframe in python.
 
 #### Handling Missing Values
 
+![Alt Text](https://github.com/CynthiaKiplagat/Analyzing-the-Impact-of-Sales-Reasons-and-Location-Preferences-on-Sales-in-AdventureWorks/blob/main/Missing%20Values.PNG)
+
+Since the analysis focuses on the impact of sales reasons, it is crucial to retain only those rows where SalesReasonID and SalesReason are not null. Dropping rows with missing values in these columns ensures the integrity of your analysis.
+
+
 
 
 
