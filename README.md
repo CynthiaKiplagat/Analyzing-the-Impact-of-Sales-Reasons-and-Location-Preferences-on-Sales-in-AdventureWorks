@@ -48,7 +48,10 @@ using the Label Encoder to cover both SalesReason1D and TerritoryName to numeric
 The leading sales reason is Pricing, generating over $40 million, followed by Promotion with $13 million, Manufacturer with $6.7 million, and Quality with $6.1 million. Reviews, Other, and Television Advertisement contribute significantly less, at $2 million, $900,000, and $31,000 respectively. Prioritizing pricing strategies, promotional activities, and strong manufacturer partnerships will optimize sales performance.
 
 #### Sales per Territory 
-![Alt Text](
+![Alt Text](https://github.com/CynthiaKiplagat/Analyzing-the-Impact-of-Sales-Reasons-and-Location-Preferences-on-Sales-in-AdventureWorks/blob/main/Sales%20per%20Territory.PNG)
+
+Australia leads with $18M in sales, followed by SouthWest with $15M, Northwest with $9M, and the UK with $8M. Germany, France, and Canada contribute $7M, $6M, and $5M, respectively. South East, North East, and Central have the least sales at $54K, $17K, and $8K, respectively.
+### Sales Trend by Territory Over Time.
 
 
 
