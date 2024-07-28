@@ -33,6 +33,10 @@ Load the extract data into a pandas dataframe in python.
 
 Since the analysis focuses on the impact of sales reasons, it is crucial to retain only those rows where SalesReasonID and SalesReason are not null. Dropping rows with missing values in these columns ensures the integrity of your analysis.
 
+![Alt Text](https://github.com/CynthiaKiplagat/Analyzing-the-Impact-of-Sales-Reasons-and-Location-Preferences-on-Sales-in-AdventureWorks/blob/main/Dropping%20nulls.PNG)
+
+The dataset doesnot contain null values.
+
 
 
 
