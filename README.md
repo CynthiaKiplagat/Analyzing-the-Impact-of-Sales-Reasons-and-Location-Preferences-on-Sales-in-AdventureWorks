@@ -59,6 +59,7 @@ Australia leads with $18M in sales, followed by SouthWest with $15M, Northwest w
 Sales showed no significant change during the first period but faced a downturn in the next phase, indicating a possible market or operational issue. However, starting June 2013, sales experienced a positive trend, suggesting a recovery or improvement in factors influencing sales, which likely correlated with the subsequent rise in performance.
 ### Data Analysis
 ANOVA used to test if there are significant differences in sales amounts across various sales reasons.
+![Alt Text](https://github.com/CynthiaKiplagat/Analyzing-the-Impact-of-Sales-Reasons-and-Location-Preferences-on-Sales-in-AdventureWorks/blob/main/Anova.PNG)
 
 
 
