@@ -60,6 +60,9 @@ Sales showed no significant change during the first period but faced a downturn 
 ### Data Analysis
 ANOVA used to test if there are significant differences in sales amounts across various sales reasons.
 ![Alt Text](https://github.com/CynthiaKiplagat/Analyzing-the-Impact-of-Sales-Reasons-and-Location-Preferences-on-Sales-in-AdventureWorks/blob/main/Anova.PNG)
+A higher F-Statistic and  P-Value is below the normal threshold suggesting that there is a statistically significant difference in sales amounts across different sales reasons.Different sales reasons have a meaningful impact on the sales amounts, and the differences between them are not likely due to random chance.
+Since there are more than two sales reasons, we consider conducting post-hoc tests the Tukey's HSD to identify which specific groups differ from each other.
+
 
 
 
