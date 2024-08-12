@@ -5,7 +5,6 @@ In the business environment, understanding the factors that influence sales perf
 The primary objectives of this project are to:
 * Determine the relationship between sales reasons and sales amounts
 * Evaluate how different locations (cities, states, regions) affect sales performance
-* 
 ## Data Source
 We will utilise the AdventureWorks Database.
 ## Methodology 
