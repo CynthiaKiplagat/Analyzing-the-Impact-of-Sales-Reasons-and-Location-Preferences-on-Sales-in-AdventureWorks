@@ -13,7 +13,6 @@ The methodology involves;
 2. Data cleaning and processing:Prepare the extracted data for analysis
 3. Exploratory Data Analysis: Summarizing data to compute total sales, quantities, and other metrics.
 4. Data Analysis: Using Python libraries (such as pandas, matplotlib, and seaborn) to perform detailed analysis and create visualizations.
-5. Reporting: Compiling results into comprehensive reports with visualizations to highlight key findings.
 ### Data Extraction
 Retrieved relevant data from SQL for our objective.
 Below is the SQL Statement:
@@ -57,14 +56,33 @@ Australia leads with $18M in sales, followed by SouthWest with $15M, Northwest w
 
 Sales showed no significant change during the first period but faced a downturn in the next phase, indicating a possible market or operational issue. However, starting June 2013, sales experienced a positive trend, suggesting a recovery or improvement in factors influencing sales, which likely correlated with the subsequent rise in performance.
 ### Data Analysis
+#### Sales Reason
 ANOVA used to test if there are significant differences in sales amounts across various sales reasons.
+
 ![Alt Text](https://github.com/CynthiaKiplagat/Analyzing-the-Impact-of-Sales-Reasons-and-Location-Preferences-on-Sales-in-AdventureWorks/blob/main/Anova.PNG)
+
 A higher F-Statistic and  P-Value is below the normal threshold suggesting that there is a statistically significant difference in sales amounts across different sales reasons.Different sales reasons have a meaningful impact on the sales amounts, and the differences between them are not likely due to random chance.
 Since there are more than two sales reasons, we consider conducting post-hoc tests the Tukey's HSD to identify which specific groups differ from each other.
 
 ![Alt Text](https://github.com/CynthiaKiplagat/Analyzing-the-Impact-of-Sales-Reasons-and-Location-Preferences-on-Sales-in-AdventureWorks/blob/main/Turkey%20HSD.PNG)
 
 Price is a key competitive strategy that can significantly attract customers. However, to maximize its effectiveness, it should be complemented with high-quality products, strategic promotions, and positive customer reviews. Integrating these elements will enhance the overall value proposition and improve customer engagement.
+
+#### Locations
+Used regression analysis to detemine the relationship between sales amount and loacation.
+
+![Alt Text](https://github.com/CynthiaKiplagat/Analyzing-the-Impact-of-Sales-Reasons-and-Location-Preferences-on-Sales-in-AdventureWorks/blob/main/Location%20Preference.PNG)
+
+from the analysis an F-Statistic of 255 that the differences in sales amounts across different locations are substantial and the model is very effective in explaining this variance there is still an unexplained variance.The P Value confirms a significant difference in sales amount between different locations.
+### Conclusion
+The analysis of the AdventureWorks sales data provides valuable insights into the impact of sales reasons and location preferences on sales performance.
+#### Impact of Sales Reasons
+While price is an important factor in driving sales, its impact is maximized when complemented by quality, promotions, and reviews. Integrating these elements enhances the overall value proposition and improves customer engagement.
+#### Impact of Location Preferences
+The substantial F-statistic and significant p-value indicate that geographic differences significantly affect sales performance. Tailoring strategies to specific locations can optimize sales outcomes.
+
+
+
 
 
 
